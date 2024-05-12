@@ -1,6 +1,7 @@
 # Tic Tac Toe
 
 A simple Tic Tac Toe game implemented in JavaScript.
+![Screenshot 2024-05-12 200430](https://github.com/DikshitaRao/Prodigy_WD_03_dikshita-rao/assets/161601609/0f3c2b29-a4ff-4f85-9bef-29e5939db6d8)
 
 ## Table of Contents
 
